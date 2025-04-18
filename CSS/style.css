@@ -1,0 +1,22 @@
+
+h1{
+    color: blueviolet;
+    font: lighter 2em sans-serif;
+    font-size: 300%;
+}
+p{
+    color: green;
+    font: 1.2em sans-serif;
+}
+
+li.special{
+    color: red;
+    font: bold 1.5em sans-serif;
+    list-style-type: none;
+}
+
+li{
+    color: yellowgreen;
+    font-style: oblique;
+    font-size: xx-large;
+}
