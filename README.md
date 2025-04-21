@@ -48,3 +48,10 @@ While some concepts are already familiar, this repository will help me revisit a
 - Code structure experiments and notes
 
 ---
+## 📂 Folder Structure
+<pre>
+📁 CSS
+📁 HTML
+📝 README.md
+</pre>
+---
